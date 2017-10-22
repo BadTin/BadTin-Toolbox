@@ -1,0 +1,23 @@
+<?php 
+// Plugindemo https://wasistseo.de
+// Datei: badthin.php
+/**
+ *
+ * @link https://wasistseo.de
+ * @since 1.0.0
+ * @package WIS
+ *
+ * @wordpress-plugin
+ * Plugin Name: BadThin -Toolbox
+ * Plugin URI: https://wasistseo.de
+ * Description: BadThin -Toolbox 2017/18
+ * Version: 1.0.0
+ * Author: Was ist SEO?
+ * Author URI: https://wasistseo.de
+ * License: GPL-2.0+
+ * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
+ * Text Domain: wis-textdomain
+ * Domain Path: /languages
+ */
+// Start Plugin>>
+//..
